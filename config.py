@@ -16,7 +16,7 @@ DB_NAME = os.environ.get("DB_NAME", "StorageBot")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003563359049"))
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1003563359049"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1003612860292"))
 
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "600")) # auto delete in seconds
